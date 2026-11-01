@@ -1,0 +1,4 @@
+---
+deployment:
+  tasks:
+    - cp -R public/. $HOME/public_html/gatsby.odoip.cloud/
